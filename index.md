@@ -1,4 +1,4 @@
-[PROJECT](./index.html) | [TEAM](./team.html) | [DATA](./data.html)  | [ROADMAP](./roadmap.html) | [Tech](./tech.html) 
+[PROJECT](./index.html) | [TEAM](./team.html) | [DATA](./data.html)  | [ROADMAP](./roadmap.html) | [TECH](./tech.html) 
 
 ## Context
 
