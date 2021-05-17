@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+[PROJECT](./index.html) | [TEAM](./team.html) | [DATA](./data.html)  | [ROADMAP](./roadmap.html) | [Tech](./tech.html) 
 
-You can use the [editor on GitHub](https://github.com/OpenGeoScales/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Context
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Greenhouse gas (GHGs) emissions from human activities are considered as the most significant driver of observed climate change since the mid-20th century. In order to better mitigate climate change impacts, policy makers, scientists, carbon and environment consultancy specialists, data journalists and citizens need easy and free access to relevant and accurate data on GHGs emissions at various spatial scales.
 
-### Markdown
+In accordance with the Paris Agreement, countries are required to submit transparent, comparable and complete reporting of GHGs inventories based on the methodologies developed by the IPCC. In addition to these Top-Down approaches, Bottom-Up methods are being used for completing emissions estimates based on satellite imagery and carbon monitoring stations at different spatial scales. At subnational scales, important efforts and specific protocols are deployed providing methodologies for measuring city-scale emissions since they represent a large percent of energy-related GHGs emissions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pain points
 
-```markdown
-Syntax highlighted code block
+While several open data platforms and portals are engaged in publishing relevant collected GHGs emissions data ([Carbon Disclosure Project](https://data.cdp.net/browse?category=Emissions), [World Resources Institute](https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=&historical-emissions-regions=&historical-emissions-sectors=&page=1), [EDGAR database](https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG),[UNFCCC](https://dataservices.gfz-potsdam.de/pik/showshort.php?id=escidoc:4736895)...), the use of this data remain often complex and time consuming due to their different formats, schemas, standards, scales, protocols, units,spatio-temporal coverage, data definitions...
 
-# Header 1
-## Header 2
-### Header 3
+Identification and mapping of the appropriate sources as well as various data processing treatments (cleaning, recoding, normalization, cross-referencing, aggregating...) are often necessary before being able to use the available data and combine it with other indicators.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Our solution: CarbonGeoScales
 
-**Bold** and _Italic_ and `Code` text
+**The main goal of CarbonGeoScales consists of providing a centralized access point to updated, accurate, harmonized, and aggregated GHGs emissions data at multiple geographical scales.**
 
-[Link](url) and ![Image](src)
-```
+As an open source and collaborative project, different **data processing treatments** are accessible in order to provide users with transformation processes implemented on raw collected data. The resulting **compiled database** is accessible by download and through specific **API** for querying and integrating aggregated data into potential applications. Resulting harmonized GHGs emissions data are completed with consistent **documentation, articles and dashboards** for exploring its content.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OpenGeoScales/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+By facilitating access to GHGs emissions open data, CarbonGeoScales is participating to help policy makers to build more effective emissions reduction strategies at different territorial scales and to track their progress more accurately. Standardidzed data facilitates data use for carbon analytics specitalists (scientists, NGOs and carbon consultancy offices) in order to combine it with external datasets. 
