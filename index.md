@@ -1,5 +1,9 @@
 [PROJECT](./index.html) | [TEAM](./team.html) | [DATA](./data.html)  | [ROADMAP](./roadmap.html) | [TECH](./tech.html) 
 
+## Goal
+
+Aggregate and standardize GHG emissions data at various aptio-temporal scales.
+
 ## Context
 
 Greenhouse gas (GHGs) emissions from human activities are considered as the most significant driver of observed climate change since the mid-20th century. In order to better mitigate climate change impacts, policy makers, scientists, carbon and environment consultancy specialists, data journalists and citizens need easy and free access to relevant and accurate data on GHGs emissions at various spatial scales.
